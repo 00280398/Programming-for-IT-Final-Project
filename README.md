@@ -2,4 +2,4 @@
 
 Nick Wunderlich
 
-This project is to be a randomly generated math test. The user will choose what type of test they want (addition, subtraction, multipliction, division) (if applicable). The numbers for each of the 15-20 questions will be randomly generated; depending on the type of test chosen, the numbers will have a specified range. At the end of the test, the user will recieve a score showing how many they got right.
+This project is to be a randomly generated mutiplication math test. The numbers for each of the 20 questions will be randomly generated up to and including 20. At the end of the test, the user will recieve a score showing how many they got right. They will have the option to study, retake the test, view their past grades, or stop the program.
